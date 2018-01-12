@@ -1,0 +1,36 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/ads.jpg" filesize="53994" filedate="2013-02-08 11:25:08" width="435px" height="720px">
+</image>
+<image path="images/auto1.jpg" filesize="69751" filedate="2013-02-08 11:13:41" width="720px" height="534px">
+</image>
+<image path="images/auto2.jpg" filesize="74800" filedate="2013-02-08 19:55:16" width="720px" height="462px">
+</image>
+<image path="images/auto3a.jpg" filesize="66095" filedate="2013-02-08 19:57:08" width="485px" height="720px">
+</image>
+<image path="images/auto3b.jpg" filesize="67033" filedate="2013-02-08 19:58:36" width="511px" height="720px">
+</image>
+<image path="images/backcover-inside.jpg" filesize="84697" filedate="2013-02-08 11:21:25" width="441px" height="720px">
+</image>
+<image path="images/backcover.jpg" filesize="68253" filedate="2013-02-08 11:19:11" width="452px" height="720px">
+</image>
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/decor1.gif" filesize="451" filedate="2013-02-08 11:06:43" width="249px" height="15px">
+</image>
+<image path="images/decor2.gif" filesize="668" filedate="2013-02-08 11:08:10" width="146px" height="28px">
+</image>
+<image path="images/decor3.gif" filesize="475" filedate="2013-02-08 11:10:46" width="252px" height="18px">
+</image>
+<image path="images/decor4.gif" filesize="1025" filedate="2013-02-08 11:11:40" width="248px" height="38px">
+</image>
+<image path="images/decor5.gif" filesize="671" filedate="2013-02-08 11:09:41" width="144px" height="27px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/frontcover.jpg" filesize="52318" filedate="2013-02-08 11:16:58" width="461px" height="720px">
+</image>
+<image path="images/triangle.gif" filesize="631" filedate="2013-02-08 11:27:39" width="94px" height="85px">
+</image>
+</images>
